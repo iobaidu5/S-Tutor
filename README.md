@@ -1,6 +1,6 @@
 # S_Tutor
 
-A new Flutter project.
+S-Tutor app is a tool to assist the students/parents to find private tutors in an interactive manner. It aims to complement the efforts of a student to find a desirable teacher.
 
 ## Getting Started
 
